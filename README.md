@@ -18,6 +18,4 @@ Aquí encontraras algunos de mis proyectos más relevantes. Si estás interesado
 📫 Contacto 📫
 Si deseas ponerte en contacto no dudes en hacerlo. Espero que sea de tu agrado lo que encuentras en mi repositorio.
 
-📧 Correo electrónico 📧
 
-Email LinkedIn
